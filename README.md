@@ -91,3 +91,10 @@ Streamlit UI deployment
 
 
 Better generative LLM integration
+
+## RAG Architecture Diagram
+
+RAG ARCHITECTURE
+![RAG Architecture](rag_architecture.png)
+
+
