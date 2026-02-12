@@ -1,0 +1,15 @@
+"""
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine Learning (ML) is a subset of AI that enables systems to learn from data without explicit programming.
+
+Deep Learning is a type of Machine Learning that uses neural networks with multiple layers.
+
+Natural Language Processing (NLP) helps machines understand, interpret and generate human language.
+
+Computer Vision allows machines to understand and analyze images and videos.
+
+Applications of AI include healthcare, finance, education, autonomous vehicles and robotics.
+
+Limitations of AI include bias in data, high computational cost and lack of human emotions.
+"""
