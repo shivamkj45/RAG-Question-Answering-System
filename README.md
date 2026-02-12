@@ -1,4 +1,5 @@
 RAG Based Question Answering System
+
 ** PROJECT OVERVIEW
 
 This project implements a beginner-level Retrieval Augmented Generation (RAG) system using LangChain and FAISS.
@@ -95,6 +96,7 @@ Better generative LLM integration
 ## RAG Architecture Diagram
 
 RAG ARCHITECTURE
-![RAG Architecture](rag_architecture.png)
+![RAG Architecture](rag_architecture.png.png)
+
 
 
