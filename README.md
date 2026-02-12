@@ -93,10 +93,17 @@ Streamlit UI deployment
 
 Better generative LLM integration
 
+CODE : - 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/shivamkj45/RAG-Question-Answering-System/blob/main/ASSIGNMENT1.ipynb)
+
+
 ## RAG Architecture Diagram
 
 RAG ARCHITECTURE
 ![RAG Architecture](rag_architecture.png.png)
+
 
 
 
