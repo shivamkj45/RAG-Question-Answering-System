@@ -1,4 +1,5 @@
-RAG Based Question Answering System ** PROJECT OVERVIEW
+RAG Based Question Answering System
+** PROJECT OVERVIEW
 
 This project implements a beginner-level Retrieval Augmented Generation (RAG) system using LangChain and FAISS.
 
@@ -87,5 +88,6 @@ Reranking models
 Metadata filtering
 
 Streamlit UI deployment
+
 
 Better generative LLM integration
